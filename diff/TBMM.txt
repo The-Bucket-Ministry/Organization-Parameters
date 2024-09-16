@@ -1,0 +1,70 @@
+Org Name: The Bucket Ministry Tribal Park
+
+Villages:
+	Tribal Park
+	City of Lights
+	Zona Leste (Amar)
+
+Zones:
+	N/A
+
+Tribes:
+	Apurinã
+	Arapasso
+	Arara
+	Baniwa
+	Baré
+	Carapãno
+	Dessano
+	Guanavena
+	Jupari Tapuia
+	Kaixana
+	Kambeba
+	Kokama
+	Kripaco
+	Kulina
+	Kuripako
+	Marobu
+	Miranha
+	Miriti Tapuia
+	Mundurucu
+	Mura
+	Nhegatu
+	Piratapuia
+	Piratapuia
+	Sateré-Mawé
+	Siusi Tapuia
+	Tenharim
+	Ticuna
+	Tucano
+	Tupinambá
+	Tuyuca
+	Warao
+	Witoto
+
+Languages:
+	English
+	Portuguese
+	Apurina
+	Baniwa
+	Bare
+	Bora
+	Desano
+	Kokama
+	Kulina
+	Marubo
+	Miranha
+	Mura
+	Nhengatu
+	Piraha
+	Piratapuyo
+	Satere-Mawe
+	Tenharim
+	Ticuna
+	Tucano
+	Tuyuca
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

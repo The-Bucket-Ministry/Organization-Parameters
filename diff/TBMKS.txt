@@ -1,0 +1,34 @@
+Org Name: The Bucket Ministry Shampole
+Country: Kenya
+
+Villages:
+	Olangeruwai
+	Naipeya
+	Enkisiusiu
+	Network
+	Orkungu
+	Inkiramatiani A
+	Inkiramatiani B
+	Oloisinyai A
+	Oloiisinyai B
+	Eremit
+	Kikuro
+	Emilango
+	Embash
+	Lesokoro
+	Intinyika
+	Nolesencha
+	Enkirimbei
+	Inkeek otoito
+	Enkare kiti
+	Kisidai
+
+Zones:
+
+Tribes:
+	Maasai
+
+Languages:
+	Maasai
+
+Materials:

@@ -1,0 +1,48 @@
+Org Name: The Bucket Ministry Kitale
+
+Villages:
+	Kitale
+
+Zones:
+	Bidii 
+	Hospital
+	Kaplamai
+	Kiminini 
+	Matisi
+	Nabiswa
+	Sirende
+	Tuwana
+	Waitaluk 
+
+Tribes:
+	Luhya
+	Kalenjin
+	Kikuyu
+	Embu
+	Giriama
+	Kamba
+	Kisii
+	Kuria
+	Luhya
+	Luo
+	Maasai
+	Meru
+	Samburu
+	Somali
+	Taita
+	Teso
+	Turkana
+	Other
+
+Languages:
+	Kiswahili
+	Lubukusu
+	Kalenjin
+	Kikuyu
+	English
+	Other
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

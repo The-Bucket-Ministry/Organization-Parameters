@@ -1,0 +1,131 @@
+Org Name: The Bucket Ministry Kawangware
+
+Villages:
+	Gatina-1
+	Gatina-2
+	Gatina-3
+	Gatina-4
+	Gatina-5
+	Gatina-6
+	Coast-1 
+	Coast-2
+	Coast-3
+	Congo-1
+	Congo-2
+	Congo-3
+	Kabiria-1
+	Kabiria-2
+	Kabiria-3
+	Kabiria-4
+	Kabiria-5
+	Kabiro-1
+	Kabiro-2
+	Kabiro-3
+	Kabiro-4
+	Kabiro-5
+	Kabiro-6
+	Kangemi-1
+	Kangemi-2
+	Kangemi-3
+	Kangemi-4
+	Kangemi-5
+	Kangemi-6
+	Kangemi-7
+	Kangemi-8
+	Kangemi-9
+	Muslim-1
+	Muslim-2
+	Muslim-3
+	Riruta-1
+	Riruta-2
+	Riruta-3
+	Sokoni-1
+	Sokoni-2
+	Sokoni-3
+	Wanyee-1
+	Wanyee-2
+	Wanyee-3
+	Wanyee-4
+	Wanyee-5
+	Wanyee-6
+	Wanyee-7
+
+Zones:
+	N/A
+
+Tribes:
+	ABASUBA
+	BAGANDA
+	BORANA
+	BURUNDI
+	CHAGA
+	CHONYI
+	CONGOLESE
+	DIGO
+	DURUMA
+	EMBU
+	GIRIAMA
+	KALENJIN
+	KAMBA
+	KAUMA
+	KIKUYUS
+	KISII
+	KURIA
+	LUHYAS
+	LUO
+	MAASAI
+	MERU
+	NUBIANS
+	RENDILE
+	RWANDIS
+	SAMBURU
+	SOMALI
+	SUDANESE
+	SUKUMA
+	TAITA
+	TESOS
+	TURKANA
+	WAGISU
+
+Languages:
+	English
+	Swahili
+	SUBA
+	GANDA
+	BORANA
+	RUNDI
+	CHAGA 
+	CHONYI
+	LINGALA
+	DIGO
+	DURUMA
+	EMBU
+	GIRIAMA
+	KALENJIN
+	KAMBA
+	KAUMA
+	KIKUYU
+	KISII
+	KURIA
+	LUHYA
+	LUO
+	MAASAI
+	MERU
+	NUBI
+	RENDILE
+	RWANDA
+	SAMBURU
+	SOMALI
+	DINKA and ARABIC
+	SUKUMA
+	TAITA
+	ATESO
+	TURKANA
+	GISU
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
+	Download from the WiFi Box
+	SD Copied from the WiFi Box

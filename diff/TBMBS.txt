@@ -1,0 +1,57 @@
+Org Name: The Bucket Ministry Solimoes Tourism Park
+
+Villages:
+	Parque solimoes turismo - 1
+	Parque solimoes turismo - 2
+	Parque das nações indigenas
+
+Zones:
+	N/A
+
+Tribes:
+	Apurinã
+	Arapasso
+	Arara
+	Baniwa
+	Baré
+	Bolivian
+	Carapãno
+	Dessano
+	Guanavena
+	Haitian
+	Jupari Tapuia
+	Kaixana
+	Kambeba
+	Kokama
+	Kripaco
+	Kulina
+	Kuripako
+	Marobu
+	Miranha
+	Miriti Tapuia
+	Mundurucu
+	Mura
+	Nhegatu
+	Piratapuia
+	Piratapuia
+	Sateré-Mawé
+	Siusi Tapuia
+	Tenharim
+	Ticuna
+	Tucano
+	Tupinambá
+	Tuyuca
+	Venezuelan
+	Warao
+	Witoto
+
+Languages:
+	Portuguese
+	Spanish
+	Criolo
+	English
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

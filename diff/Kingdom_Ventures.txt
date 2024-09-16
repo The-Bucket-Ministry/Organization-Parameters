@@ -1,0 +1,24 @@
+Org Name: Kingdom Ventures
+
+Villages:
+	N/A
+
+Zones:
+	N/A
+
+Tribes:
+	N/A
+
+Languages:
+	English
+	Spanish
+	Portuguese
+	Swahili
+	French
+	Creole
+	Other
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

@@ -1,0 +1,33 @@
+Org Name: The Bucket Ministry Fishermans
+
+Villages:
+	Backbay
+	Dhobi Ghat
+	Ambedkar Nagar
+	Geeta Nagar
+
+Zones:
+	N/A
+
+Tribes:
+	Banjara
+	Chamar
+	Dhobi
+	Kuch
+	Valmiki
+	Vanjari
+
+Languages:
+	English
+	Banjara
+	Bengali,
+	Hindi,
+	Kannada
+	Marathi
+	Tamil
+	Telugu
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

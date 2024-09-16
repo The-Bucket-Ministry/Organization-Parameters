@@ -1,0 +1,127 @@
+Org Name: The Bucket Ministry Jenta
+
+Villages:
+	Jenta Ande
+	Jenta Makeri
+	Jenta Mangoro A
+	Jenta Mangoro B
+	Jenta Mangoro C
+	Jenta Sakiya
+	Jenta Summit
+	West of mines
+
+Zones:
+	N/A
+
+Tribes:
+	Amo
+	Anaguta
+	Bajju
+	Berom
+	Buji
+	Chawai
+	Eggon
+	Here
+	Idoma
+	Igala
+	Igbo
+	Irigwe
+	Jarawa
+	Kulere
+	Lemoro
+	Minchika
+	Mupun
+	Mwaghavul 
+	Ngas
+	Oron
+	Pyem 
+	Ron 
+	Rukuba (Bache)
+	Tarok
+	Tiv
+	Tula
+	Urhobo
+	Yoruba
+	Youm
+
+Languages:
+	English
+	Swahili
+	Other
+	Afenmai
+	Ake-Levbu
+	Akoko
+	Akwai
+	Amo
+	Anaguta
+	Ankwe
+	Annang
+	Bagim
+	Bajju
+	Berom
+	Buji
+	Bwai
+	Calabar
+	Chawai
+	Demark
+	Doemak
+	Edo
+	Efik
+	Eggon
+	Emai
+	Esan
+	Etsako
+	Etuno
+	Fulfude (Fulani)
+	Goemai
+	Hausa
+	Here
+	Ibibio
+	Idoma
+	Igala
+	Igbanke
+	Igbo
+	Ijaw
+	Imua
+	Irigwe
+	Isoko
+	Itsekiri
+	Jarawa
+	Jukun
+	Kofia
+	Koro
+	Kulere
+	Kwal
+	Lemoro
+	Mada
+	Magogo
+	Mernian
+	Minchika
+	Mupun
+	Mushere
+	Mwaghavul 
+	Ngas
+	Ntu-Mbusor
+	Ogoja
+	Okpameri
+	Okpe
+	Oron
+	Oron
+	Pyem 
+	Quan
+	Rindere
+	Ron 
+	Rukuba (Bache)
+	Stiwa
+	Tarok
+	Tiv
+	Tula
+	Urhobo
+	Wamba
+	Yoruba
+	Youm
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

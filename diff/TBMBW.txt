@@ -1,0 +1,38 @@
+Org Name: The Bucket Ministry WaiWai
+
+Villages:
+	Bateria
+	Inaja
+	Karana
+	Katwaru
+	Kecekere
+	Kukwa Miti
+	Kwanamary
+	Mapuera
+	Mapuim
+	Pamkuru
+	Paraiso
+	Paro
+	Passara
+	Payawa
+	Peewu
+	Placa
+	Takara
+	Tamyuru
+	Tawana
+	Yawara
+
+Zones:
+	N/A
+
+Tribes:
+	WaiWai
+
+Languages:
+	WaiWai
+	Portuguese
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

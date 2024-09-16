@@ -1,0 +1,71 @@
+Org Name: The Bucket Ministry Ghana
+
+Villages:
+	N/A
+
+Zones:
+	N/A
+
+Tribes:
+	Akyem
+	Asantes
+	Bassari
+	Bono
+	Builsa
+	Chamba
+	Chekosis
+	Chumburu
+	Dagaati
+	Dagomba
+	Ewe
+	Fantes
+	Frafra
+	Gas
+	Gonja
+	Grune
+	Konkomba
+	Kotokoli
+	Krobo
+	Mamprusi
+	Nanumba
+	Nchumuru
+	Nzema
+	Sisaala
+	Talensi
+	Waala
+	Wala
+
+Languages:
+	English
+	Akyem
+	Bono
+	Chamba
+	Chekosi
+	Chumburu
+	Dagaare
+	Dagbani
+	Ewe
+	Fante
+	Frafra
+	Ga/Adangbe
+	Gonja
+	Grune
+	Kanjaga
+	Konkomba
+	Kotokoli
+	Krobo
+	Mamprusi
+	Nanuni
+	Nchumburu
+	Nzema
+	Oniyan
+	Sisaali
+	Talni
+	Twi
+	Waali
+	Wali
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

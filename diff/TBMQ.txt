@@ -1,0 +1,41 @@
+Org Name: The Bucket Ministry Quilombolas
+
+Villages:
+	Abui 
+	Acari
+	Aracuan
+	Bacabal
+	Batata 1
+	Batata 2
+	Cachoeira Portera
+	Carimum
+	Curuça
+	Jamari
+	Juquiri
+	Mae Cue
+	Muruça
+	Palhal
+	Sagrado Coração
+	Santo Antonio
+	Tapagem
+	Varjao
+
+Zones:
+	N/A
+
+Tribes:
+	Quiombolas
+
+Languages:
+	Portuguese
+	Wayway
+	Skaryanas
+	Miranhas
+	Spanish
+	English
+	Other
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
