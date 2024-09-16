@@ -5,6 +5,13 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
+concurrency:
+  group: TBM-OrgParm-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -12,6 +19,18 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+
+    - name: Get commit message
+      id: getmssg
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        commit_sha=$(git rev-parse HEAD)
+        commit_message=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+          https://api.github.com/repos/${{ github.repository }}/commits/$commit_sha \
+          | jq -r '.commit.message')
+        echo "Commit message: $commit_message"
+        echo "commitmssg=$commit_message" >> $GITHUB_OUTPUT
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -27,8 +46,15 @@ jobs:
       run: |
         python convert.py
 
-    - name: Upload CSV files
-      uses: actions/upload-artifact@v4
-      with:
-        name: csv-files
-        path: 'diff/*.csv'
+    - name: Check for modified files
+      id: git-check
+      run: echo "modified=$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)" >> $GITHUB_OUTPUT
+
+    - name: Update changes in GitHub repository
+      if: steps.git-check.outputs.modified == 'true'
+      run:  |
+        git config --global user.name github-actions
+        git config --global user.email github-actions@github.com
+        git add .
+        git commit -am ${{ steps.getmssg.outputs.commitmssg }}
+        git push
