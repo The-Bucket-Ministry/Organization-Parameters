@@ -45,3 +45,5 @@ Materials:
 	Printed Bible
 	Mega Voice
 	Other Audio Bible
+	Download from the WiFi Box
+	SD Copied from the WiFi Box
