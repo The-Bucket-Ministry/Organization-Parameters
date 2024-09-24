@@ -22,6 +22,18 @@ Villages:
 	Inkeek otoito
 	Enkare kiti
 	Kisidai
+	Esoit nanyor
+	Konamaziwa
+	Oltalet A
+	Oltalet B
+	Nemuny
+	OloikaA
+	OloikaB
+	Upper olosaen
+	Lower olosaen
+	Olbili
+	Nenkishomi
+	Ololaiser
 
 Zones:
 
