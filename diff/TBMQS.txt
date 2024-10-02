@@ -1,24 +1,19 @@
 Org Name: The Bucket Ministry Quilombolas South
 
 Villages:
-	Abui 
-	Acari
-	Aracuan
-	Bacabal
-	Batata 1
-	Batata 2
-	Cachoeira Portera
-	Carimum
-	Curuça
-	Jamari
-	Juquiri
-	Mae Cue
-	Muruça
-	Palhal
-	Sagrado Coração
-	Santo Antonio
-	Tapagem
-	Varjao
+	Musura 
+	Batata
+	Acari 
+	Bacabal 
+	Arancuã de  cima
+	Varjão 
+	Carimum 
+	Babaçu 
+	Castanho - ii 
+	Alema
+	Flechal 
+	Tarumã 
+	Serrinha
 
 Zones:
 	N/A
@@ -39,3 +34,5 @@ Materials:
 	Printed Bible
 	Mega Voice
 	Other Audio Bible
+	Download from the WiFi Box
+	SD Copied from the WiFi Box

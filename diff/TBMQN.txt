@@ -1,24 +1,23 @@
 Org Name: The Bucket Ministry Quilombolas North
 
 Villages:
-	Abui 
-	Acari
-	Aracuan
-	Bacabal
-	Batata 1
-	Batata 2
-	Cachoeira Portera
-	Carimum
-	Curuça
-	Jamari
-	Juquiri
-	Mae Cue
-	Muruça
-	Palhal
-	Sagrado Coração
-	Santo Antonio
-	Tapagem
-	Varjao
+	Tapagem 
+	Juquirizinho 
+	Abuí 
+	Paraná do abuí 
+	Cachoeira porteira 
+	Juquiri grande 
+	Palhal 
+	Sagrado coração 
+	Santo antônio 
+	Mae cué 
+	Jamari 
+	Curuça 
+	Moura 
+	Ultima lavoura
+	Nova esperança
+	Último quilombo 
+	Santa lavoura 
 
 Zones:
 	N/A
@@ -39,3 +38,5 @@ Materials:
 	Printed Bible
 	Mega Voice
 	Other Audio Bible
+	Download from the WiFi Box
+	SD Copied from the WiFi Box
