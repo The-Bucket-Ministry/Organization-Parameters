@@ -1,39 +1,52 @@
-Org Name: The Bucket Ministry Shampole
+Org Name: The Bucket Ministry Shompole
 Country: Kenya
 
 Villages:
-	Olangeruwai
-	Naipeya
-	Enkisiusiu
-	Network
-	Orkungu
-	Inkiramatiani A
-	Inkiramatiani B
-	Oloisinyai A
-	Oloiisinyai B
-	Eremit
-	Kikuro
-	Emilango
-	Embash
-	Lesokoro
-	Intinyika
-	Nolesencha
-	Enkirimbei
-	Inkeek otoito
-	Enkare kiti
-	Kisidai
-	Esoit nanyor
-	Konamaziwa
-	Oltalet A
-	Oltalet B
-	Nemuny
-	OloikaA
-	OloikaB
-	Upper olosaen
-	Lower olosaen
-	Olbili
-	Nenkishomi
-	Ololaiser
+	Shompole - Olangeruwai
+	Shompole - Naipeya
+	Shompole - Enkisiusiu
+	Shompole - Network
+	Shompole - Orkungu
+	Inkiramatiani - Inkiramatiani A
+	Inkiramatiani - Inkiramatiani B
+	Pakase - Oloisinyai A
+	Pakase - Oloiisinyai B
+	Pakase - Eremit
+	Pakase - Kikuro
+	Pakase - Emilango
+	Pakase - Embash
+	Pakase - Lesokoro
+	Pakase - Intinyika
+	Pakase - Nolesencha
+	Pakase - Enkirimbei
+	Pakase - Inkeek otoito
+	Pakase - Enkare kiti
+	Pakase - Kisidai
+	Oloika - Esoit nanyor
+	Oloika - Konamaziwa
+	Oloika - Oltalet A
+	Oloika - Oltalet B
+	Oloika - Nemuny
+	Oloika - OloikaA
+	Oloika - OloikaB
+	Oloika - Upper olosaen
+	Oloika - Lower olosaen
+	Oloika - Olbili
+	Oloika - Nenkishomi
+	Oloika - Ololaiser
+	Lenkobei - Lenkobei
+	Lenkobei - Lenkobei town
+	Lenkobei - Nesimiti
+	Lenkobei - Nesonkoyo A
+	Lenkobei - Nesonkoyo B
+	Lenkobei - Rokonga
+	Lenkobei - Enchuti A
+	Lenkobei - Enchuti B
+	Lenkobei - Nkasit
+	Lenkobei - Olonkariki
+	Lenkobei - Oyarata
+	Endonyolasho - Entamo
+	Endonyolasho - Olorok are
 
 Zones:
 
