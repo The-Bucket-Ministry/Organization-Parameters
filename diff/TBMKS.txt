@@ -7,8 +7,6 @@ Villages:
 	Shompole - Enkisiusiu
 	Shompole - Network
 	Shompole - Orkungu
-	Inkiramatiani - Inkiramatiani A
-	Inkiramatiani - Inkiramatiani B
 	Pakase - Oloisinyai A
 	Pakase - Oloiisinyai B
 	Pakase - Eremit
@@ -47,6 +45,25 @@ Villages:
 	Lenkobei - Oyarata
 	Endonyolasho - Entamo
 	Endonyolasho - Olorok are
+	Olkiramatian - Ntigiya A
+	Olkiramatian - Ntigiya B
+	Olkiramatian - Town A
+	Olkiramatian - Town B
+	Olkiramatian - Olkiramatian
+	Olkiramatian - Oloisinyai
+	Olkiramatian - Ilgoso-loonkishu
+	Olkiramatian - Kimelok
+	Olkiramatian - Ilkilang'u
+	Olkiramatian - Enkonyoro A
+	Olkiramatian - Enkonyoro B
+	Oldorko - Oloserian A
+	Oldorko - Oloserian B
+	Oldorko - Komitii A
+	Oldorko - Komitii B
+	Oldorko - Enkutuk-osero A
+	Oldorko - Ndonyio-orkine
+	Oldorko - Olomayiana
+	Oldorko - Enkutuk-osero B
 
 Zones:
 
