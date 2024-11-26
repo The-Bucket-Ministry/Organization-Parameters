@@ -1,0 +1,44 @@
+Org Name: The Bucket Ministry Nyalenda
+Country: Kenya
+
+Villages:
+	Nyalenda A - Dago
+	Nyalenda A - Kanyakwar
+	Nyalenda A - Kowino
+	Nyalenda A – Capital/Cental
+	Nyalenda A - Western A
+	Nyalenda B - Western B
+	Nyalenda B – Kilo
+	Nyalenda B – Kapuothe
+	Nyalenda B - Got Owak
+	Nyalenda B – Nanga
+	Nyalenda B - Dunga
+
+Zones:
+
+Tribes:
+	Luos
+	Kisii
+	Luhyas
+	Kamba
+	Kalenjin
+	Maasai
+	Kuria
+	Other
+
+Languages:
+	Dholuo
+	Kiswahili
+	Lubukusu
+	Ekigusii
+	English
+	Kalenjin
+	Maasai
+	Other
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
+	SD Copied from the WiFi Box
+	Download from the WiFi Box
