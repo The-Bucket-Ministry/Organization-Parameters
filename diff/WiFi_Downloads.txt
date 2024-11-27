@@ -264,7 +264,7 @@ Langs: 	Spanish, English,
 
 Name: Jesus Film
 Cat: 	jesusFilm
-Langs: 	Acholi, Adele, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Akan-Fante, Alur, Anufo, Ateso, Bimoba, Birifor-Southern, Borana, Buli, Canela, Chumburung, Daasanach, Dagaare, Dagbani, Dhopadhola, Duruma, English, Ewe, Ga, Gikyode, Giryama, Guajajara, Hanga, Ilchamus, IsiXhosa, IsiZulu, Kaapor, Kadiweu, Kakwa, Kalenjin, Kamba, Karimojong, Kasem, Kayabi, Kayapo,  Kebu, Kikamba, Kimeru, Kiswahili, Kiwihwana, Koma, Konkomba-Likoonli, Konkomba-Likpakpaaln, Kumam, Kupsapiny, Kusaal, Lango, Lelemi, Lubwisi, Luganda, Lugbara, Lumasaaba, Lunyore, Luo, Lusoga, Maasai, Madi, Mampruli, Meru, Ndebele Northern, Ndebele Southern, Nkonya, Nzema, Paasaal, Parecis, Polkoot, Portuguese, Runyankore, Runyoro-Rutoro, Sabaot, Samburu, Sisaala-Tumulung, siSwati, Sesotho, Sesotho sa Leboa, Setswana, Spanish, Suba, Taita, Tampulma, Tharaka, Turkana, Vagla, Wali, Xitsonga, 
+Langs: 	Acholi, Adele, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Akan-Fante, Alur, Anufo, Ateso, Bimoba, Birifor-Southern, Borana, Buli, Canela, Chumburung, Daasanach, Dagaare, Dagbani, Dhopadhola, Duruma, English, Ewe, Ga, Gikyode, Giryama, Guajajara, Hanga, Ilchamus, IsiXhosa, IsiZulu, Kaapor, Kadiweu, Kakwa, Kalenjin, Kamba, Karimojong, Kasem, Kayabi, Kayapo,  Kebu, Kikamba, Kimeru, Kiswahili, Kiwihwana, Koma, Konkomba-Likoonli, Konkomba-Likpakpaaln, Kumam, Kupsapiny, Kusaal, Lango, Lelemi, Lubwisi, Luganda, Lugbara, Lumasaaba, Lunyore, Luo, Lusoga, Maasai, Madi, Mampruli, Meru, Ndebele Northern, Ndebele Southern, Nkonya, Nzema, Paasaal, Parecis, Polkoot, Portuguese, Runyankore, Runyoro-Rutoro, Sabaot, Samburu, Sisaala-Tumulung, siSwati, Sesotho, Sesotho sa Leboa, Setswana, Spanish, Suba, Taita, Tampulma, Tharaka, Turkana, Vagla, Wali, Xitsonga, Cebuano
 
 Name: Magdalena
 Cat: 	jesusFilm
@@ -296,7 +296,7 @@ Langs: 	Akan-Akuapem-Twi, English, Kiswahili, Portuguese,
 
 Name: My Last Day
 Cat: 	jesusFilm
-Langs: 	Akan-Akuapem-Twi, Akan-Asante, English, Portuguese,
+Langs: 	Akan-Akuapem-Twi, Akan-Asante, English, Portuguese, Cebuano
 
 Name: Jesus, Our Loving Pursuer
 Cat: 	jesusFilm
@@ -328,59 +328,59 @@ Langs: 	Akan-Akuapem-Twi, Akan-Asante, Ewe, Kiswahili, Luganda, Ndebele Northern
 
 Name: The Story of jesus for Children
 Cat: 	jesusFilm
-Langs: 	Akan-Asante, Kiswahili, Luganda, Portuguese,
+Langs: 	Akan-Asante, Kiswahili, Luganda, Portuguese, Cebuano
 
 Name: StoryClubs-Birth of Jesus
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-Sinful Woman Forgiven
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-The Last Supper
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-Jairus Daugher
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-Jesus and Zacchaeus
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-Jesus Calms the Storm
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-Miraculous Catch of Fish
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-The Tomb is Empty
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-Jesus Feeds 5000
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-Childhood of Jesus
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-Jesus is Crucified
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-A widows Offering
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: StoryClubs-Healing Bartimaeus
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, 
+Langs: 	Afrikaans, Akan-Asante, IsiXhosa, IsiZulu, Kiswahili, Luganda, Portuguese,  Setswana, siSwati, Cebuano
 
 Name: Parable of Good Samaritan
 Cat: 	jesusFilm
@@ -644,7 +644,7 @@ Langs: 	English,
 
 Name: Blue
 Cat: 	jesusFilm
-Langs: 	Afrikaans, English, IsiXhosa, IsiZulu, Ndebele Northern, Portuguese, Setswana, siSwati,
+Langs: 	Afrikaans, English, IsiXhosa, IsiZulu, Ndebele Northern, Portuguese, Setswana, siSwati, Cebuano
 
 Name: Andreas Story
 Cat: 	jesusFilm
