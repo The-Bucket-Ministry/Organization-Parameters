@@ -1,0 +1,53 @@
+Org Name: The Bucket Ministry South Sudan
+Country: South Sudan
+
+Villages:
+	Mvolo - Koroba-bong
+	Mvolo - Hai-Matari
+	Mvolo - Daa-Mgbolo
+	Mvolo - Hai-Masfin
+	Mvolo - Hai- Maderia 
+	Mvolo - Badumo
+	Mvolo - Medi-Andiwu
+	Mvolo - Minikolome
+	Mvolo - Hai-Vivacell
+	Mvolo - Hai-Koroson
+	Mvolo - Hai-Jerusalem
+	Mvolo - Hai-Deleb
+	Mvolo - Hai-Senoir/Kokokoko
+	Mvolo - Doku-Aboro
+	Mvolo - Kperi
+	Mvolo - Dotiraba
+	Mvolo - Medikanunu
+	Mvolo - Dokati-Angobo
+	Mvolo - Domeri
+
+Zones:
+
+Tribes:
+	Jur Modo
+	Belli
+	Ma’di
+	Dinka
+	Muro
+	Muro-kodo
+
+Languages:
+	Arabi
+	English
+	Jur Modo
+	Suppi
+	Lori
+	Mulo
+	Nyamusa
+	wira
+	Morokodo
+	Beli
+	Dinka
+	Muda
+	Weatu
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
