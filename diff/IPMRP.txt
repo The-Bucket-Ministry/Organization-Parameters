@@ -1,0 +1,28 @@
+Org Name: IPMRP
+Country: Brazil
+
+Villages:
+	Rio Purus -  Beira-mar
+	Rio Purus - Centro
+	Rio Purus - Ribeirinho
+	Rio Purus - São Francisco
+	Rio Purus - São Pedro
+	Rio Purus - Santo Antônio
+	Rio Purus - Novo Vencedor
+
+Zones:
+	N/A
+
+Tribes:
+	N/A
+
+Languages:
+	English
+	Spanish
+	Portuguese
+	Other
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

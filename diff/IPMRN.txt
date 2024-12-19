@@ -1,0 +1,27 @@
+Org Name: IPMRN
+Country: Brazil
+
+Villages:
+	Rio Negro - Tiririca
+	Rio Negro - Santo Antônio
+	Rio Negro - Marajá
+	Rio Negro - Camará
+	Rio Negro - Timbira
+	Rio Negro - Inglês
+
+Zones:
+	N/A
+
+Tribes:
+	N/A
+
+Languages:
+	English
+	Spanish
+	Portuguese
+	Other
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
