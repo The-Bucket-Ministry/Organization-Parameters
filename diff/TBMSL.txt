@@ -6,16 +6,17 @@ Villages:
 	Newton - Mabanamaton
 	Newton - Crossing
 	Newton - Makoko
-	Grafton - PVA/Joshua
+	Grafton -  Bai Bureh Ville
 	Grafton - Forut
 	Grafton - Cyprus
 	Grafton - Town
 	Grafton - New camp
 	Grafton - Barracks
 	Grafton - Old camp
-	Grafton - SOJA town
+	Grafton - Sorie Bubu
 	Grafton - CRS
 	Grafton - Scout camp area
+	Grafton - Hillside
 
 Zones:
 
