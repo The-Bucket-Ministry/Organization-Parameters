@@ -8,6 +8,8 @@ Villages:
 	Rio Negro - Camará
 	Rio Negro - Timbira
 	Rio Negro - Inglês
+	Rio Negro - Terra preta
+	Rio Negro - Igarapé açu 
 
 Zones:
 	N/A
