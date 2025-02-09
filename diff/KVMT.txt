@@ -1,7 +1,9 @@
 Org Name: Kingdom Ventures Matses Tribe
+Country: Peru
 
 Villages:
-	N/A
+	Estirone
+	Buen
 
 Zones:
 	N/A
