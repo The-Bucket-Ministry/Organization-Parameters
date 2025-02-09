@@ -64,6 +64,40 @@ Villages:
 	Oldorko - Ndonyio-orkine
 	Oldorko - Olomayiana
 	Oldorko - Enkutuk-osero B
+	Entasopia - Idakalani A
+	Entasopia - Idakalani B
+	Entasopia - Konei A
+	Entasopia - Konei B
+	Entasopia - Soweto
+	Entasopia - Entasopia
+	Entasopia - Osopuko
+	Entasopia - Olkeres
+	Entasopia - Entumoto
+	Olchoro olepo - Ololelai
+	Olchoro olepo - Israel A
+	Olchoro olepo - Israel B
+	Olchoro olepo - Entasopia intake
+	Olchoro olepo - Olodungoro 
+	Olchoro olepo - Olchoro oirobi
+	Olchoro olepo - Olchoro olepo
+	Olchoro olepo - Naserian
+	Olchoro olepo - K.A.G
+	Olchoro olepo - Imani
+	Olchoro olepo - Tenebo
+	Olchoro olepo - Bondeni
+	Ngurman - Oltarañja
+	Ngurman - Mokinyo
+	Ngurman - Osupuko 
+	Ngurman - Empeut
+	Ngurman - Olngarua 
+	Ngurman - Esonorua 
+	Ngurman - Kongo
+	Ngurman - Oltepesi
+	Ngurman - Olomelok
+	Ngurman - Kamorora
+	Ngurman - Olboirtoto Primary 
+	Ngurman - Intake 1
+	Ngurman - Intake 2
 
 Zones:
 
