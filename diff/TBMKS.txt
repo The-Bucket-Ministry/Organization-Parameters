@@ -98,6 +98,11 @@ Villages:
 	Ngurman - Olboirtoto Primary 
 	Ngurman - Intake 1
 	Ngurman - Intake 2
+	Lorngosua 
+	Musenke 
+	Magadi
+	Komia 
+	Murantawua
 
 Zones:
 

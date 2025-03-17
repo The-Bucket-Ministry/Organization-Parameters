@@ -1,0 +1,47 @@
+Org Name: The Bucket Ministry Busia
+Country: Kenya
+
+Villages:
+	Rwambwa Harambee
+	Rwambwa Police Station 
+	Namalo A
+	Namalo B
+	Namalo C
+	Namalo Mulukoba
+	Bukhwaya
+	Namakoli Nambengele A
+	Namakoli Nambengele B
+
+Zones:
+
+Tribes:
+	Luo
+	Luhya
+	Abaganda
+	Abasamia
+	Abamarachi
+	Abakhayo
+	Kamba
+	Kikuyu
+	Giriama
+	Taita
+	Other
+
+Languages:
+	Dholuo
+	Luhya
+	LuSamia
+	Marachi
+	Bakhayo
+	Banyore
+	Kikuyu
+	Giriama
+	Kiswahili
+	Other
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
+	SD Copied from the WiFi Box
+	Download from the WiFi Box
