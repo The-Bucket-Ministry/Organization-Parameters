@@ -28,14 +28,14 @@ Tribes:
 	Other
 
 Languages:
-	Dholuo
+	Luo
 	Luhya
-	LuSamia
+	Lusamya
 	Marachi
 	Bakhayo
 	Banyore
 	Kikuyu
-	Giriama
+	Giryama
 	Kiswahili
 	Other
 
