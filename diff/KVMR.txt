@@ -7,7 +7,7 @@ Villages:
 	Momoncillo
 	Porvenir
 	Santa Rosa
-	GenGrn
+	Gen Gen
 	Centro Fuerte
 	San Antonio
 	Flor Agosro
@@ -21,6 +21,9 @@ Villages:
 	Union Centro
 	Sargento Lores
 	Maynas
+	San Juan Polis
+	8 de Setiembre
+	Nuevo Paraíso
 
 Zones:
 	N/A
