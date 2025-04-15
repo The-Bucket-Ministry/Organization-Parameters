@@ -1,9 +1,9 @@
 Material: Bible App
-Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMPB, TBMKB,
+Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMPB, TBMKB, TBMSL,
 Langs: 	Acholi, Adele, Agutaynen, Akan-Akuapem-Twi, Akan-Asante, Akan-Fante, Alangan, Alur, Antipolo Ifugao, Anufo, Apalai, Apinaye, Apurina, Ateso, Ayangan, Ayangan Ifugao, Ayta Abellen, Ayta Mag antsi, Ayta Mag Indi, Bakairi, Bantoanon, Bekwarra, Berom, Bete-Bendi, Bicolano Central, Bikol Rinconada, Bimoba, Birifor-Southern, Bisa, Bokobaru-Sim, Borana, Bororo, Bukidnon,  Buli, Bura, Busa-Bisa, Canela, Canela, Cebuano, Central Ifugao, Central Subanen, Chumburung, Culina, Daasanach, Dagaare, Dagbani, Dhopadhola, Duruma, Dza, Ebira, Embu, Ewe, Finallig, Frafra, Ga, Gikyode, Giryama, Guajajara, Hanga, Hanunoo, Hausa, Hiligaynon, Hixkaryana, Inakeanon, Ilchamus, Ilokano, Jamamadi, Jarawara, Kaapor, Kadiweu, Kagayanen, Kaingang, Kaiwa, Kakwa, Kalagan Eastern, Kalanguya, Kalenjin, Kalinga Butbut, Kalinga Lubuagan, Kalinga Majukayong, Kamayura, Kamba, Kankanaey, Karaja, Karimojong, Kasem, Kayabi, Kayapo, Kebu, Kikuyu, Kinaray, Kisii, Kiswahili, Kiwilwana, Kolibugan, Koma, Konkomba-Likoonli, Konkomba-Likpakpaaln, Koronadal, Kulina, Kumam, Kupsapiny, Kusaal, Lango, Lelemi, Lubukusu, Lubwisi, Luganda,  Lugbara, Lugungu, Lugwere, Luhya, Lukakamega, Lumasaba, Lunyankore, Lunyore, Luo, Lusamya, Lusoga, Maasai, Macushi, Madi, Mampruli, Manchineri, Mangali, Marakwet, Maxakali, Mbya Guarani, Meru, Minonuvu, Munduruku, Nadeb, Nambikuara (Southern), Nawuri, Nkonya, Ntrubo, Nzema, Obolo, Okphela, Orma, Paasaal, Pahanan, Palawano, Palikur, Pampangan, Pangasinan, Paranan, Parecis, Paumari, Pokoot, Portuguese, Rikbaktsa, Romblomanon, Runyoro-Rutoro, Sabaot, Samareno, Sambal, Sambali, Samburu, Sarangani, Satere-Mawe, Sekpele, Selee, Shanga, Sinama, Sisaala-Tumulung, Siwu, Suba, Tadyawan, Tagalog, Taita, Tampulma, Tawbuid, Tboli, Tenharim, Terena, Tharaka, Tiv, Tukano, Turkana, Tuwuli, Tuwali Ifugao, Tyap, UaiUai, Vagla, Wali, Xavante, Yakan, Yoruba,
 
 Material: ESV Bible
-Orgs: 	TBM, TBMCV, TBMKA, TBMK,
+Orgs: 	TBM, TBMCV, TBMKA, TBMK, TBMSL,
 Langs: 	English,
 
 Material: BDA Bible
@@ -23,19 +23,19 @@ Orgs: 	TBM, TBMCV, TBMK,
 Langs: 	Portuguese,
 
 Material: Jesus Film(s)
-Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMPB, TBMKB,
-Langs: 	Acholi, Adele, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Akan-Fante, Alur, Anufo, Ateso, Bimoba, Birifor-Southern, Borana, Buli, Canela, Chumburung, Daasanach, Dagaare, Dagbani, Dhopadhola, Duruma, English, Ewe, Ga, Gikyode, Giryama, Guajajara, Hanga, Ilchamus, IsiXhosa, IsiZulu, Kaapor, Kadiweu, Kakwa, Kalenjin, Kamba, Karimojong, Kasem, Kayabi, Kayapo,  Kebu, Kikamba, Kimeru, Kiswahili, Kiwihwana, Koma, Konkomba-Likoonli, Konkomba-Likpakpaaln, Kumam, Kupsapiny, Kusaal, Lango, Lelemi, Lubwisi, Luganda, Lugbara, Lumasaaba, Lunyore, Luo, Lusoga, Maasai, Madi, Mampruli, Meru, Ndebele Northern, Ndebele Southern, Nkonya, Nzema, Paasaal, Parecis, Polkoot, Portuguese, Runyankore, Runyoro-Rutoro, Sabaot, Samburu, Sisaala-Tumulung, siSwati, Sesotho, Sesotho sa Leboa, Setswana, Spanish, Suba, Taita, Tampulma, Tharaka, Turkana, Vagla, Wali, Xitsonga, Cebuano 
+Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMPB, TBMKB, TBMSL,
+Langs: 	Acholi, Adele, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Akan-Fante, Alur, Anufo, Ateso, Bimoba, Birifor-Southern, Borana, Buli, Canela, Cebuano, Chumburung, Daasanach, Dagaare, Dagbani, Dhopadhola, Duruma, English, Ewe, Fullah, Ga, Gikyode, Giryama, Guajajara, Hanga, Ilchamus, IsiXhosa, IsiZulu, Kaapor, Kadiweu, Kakwa, Kalenjin, Kamba, Karimojong, Kasem, Kayabi, Kayapo,  Kebu, Kikamba, Kimeru, Kiswahili, Kiwihwana, Koma, Komo, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kumam, Kupsapiny, Kuranko, Kusaal, Lango, Lelemi, Limba West, Lubwisi, Luganda, Lugbara, Lumasaaba, Lunyore, Luo, Lusoga, Maasai, Madi, Mampruli, Mende, Meru, Ndebele Northern, Ndebele Southern, Nkonya, Nzema, Paasaal, Parecis, Polkoot, Portuguese, Runyankore, Runyoro-Rutoro, Sabaot, Samburu, Sisaala-Tumulung, siSwati, Sesotho, Sesotho sa Leboa, Setswana, Spanish, Suba, Taita, Tampulma, Tharaka, Themne, Turkana, Vagla, Wali, Xitsonga
 
 Material: Bible Project Video(s)
-Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMKB,
+Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMKB, TBMSL,
 Langs: 	Afrikaans, English, Kiswahili, Portuguese, Spanish,
 
 Material: Good News Video
-Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK,
+Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMSL,
 Langs: 	Spanish, English,
 
 Material: Sawyer Cleaning Instructions
-Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK,
+Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMSL,
 Langs: 	Spanish, English,
 
 Material: iBIBLE
