@@ -103,6 +103,26 @@ Villages:
 	Magadi
 	Komia 
 	Murantawua
+	Tanzania - Oloobilin
+	Oldonyonyikie
+	Kora
+	Nkeek Pusi
+	Torosei  
+	Idepen  
+	Imukutan 
+	Oltepesi  
+	Toroka
+	Iyarat 
+	Kilonito
+	Indupa 
+	Kilonito  
+	Singiranie
+	Naudot  
+	Lodokilani 
+	Sampu Kike 
+	Karero 
+	Elangata Wuas
+	Iloshon  
 
 Zones:
 
