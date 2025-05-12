@@ -1,22 +1,19 @@
 Org Name: The Bucket Ministry Northern Ghana
 
 Villages:
-	N/A
+	Satani Baatingli
+	Satani Zugsaaya
+	Yilkpani
+	Yipieligu
 
 Zones:
 	N/A
 
 Tribes:
-	N/A
+	Dagomba
 
 Languages:
-	English
-	Spanish
-	Portuguese
-	Swahili
-	French
-	Creole
-	Other
+	Dagbani
 
 Materials:
 	Printed Bible
