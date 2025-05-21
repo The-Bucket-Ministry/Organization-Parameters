@@ -2,8 +2,27 @@ Org Name: Kingdom Ventures Matses Tribe
 Country: Peru
 
 Villages:
-	Estirone
+	Añushi
 	Buen
+	Buen
+	Comunidad de Angamos
+	Estirone
+	Frey Pedro
+	Jorge Chávez 
+	Malvinas 
+	Monte verde
+	Nuevo Cashispi
+	Nuevo Eden
+	Nuevo Paujil
+	Puerto Alegre
+	Puerto Tumi
+	Remoyacu
+	San Carlos
+	San Juan
+	San Mateo
+	San Ramón 
+	San Roque
+	Santa Rosa
 
 Zones:
 	N/A
