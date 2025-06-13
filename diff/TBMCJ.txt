@@ -1,0 +1,23 @@
+Org Name: The Bucket Ministry Ciudad Juarez
+
+Villages:
+	Los Kilómetros
+
+Zones:
+	Kilometro 27
+	Kilometro 30
+	Kilometro 29
+
+Tribes:
+	N/A
+
+Languages:
+	English
+	Spanish
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
+	Download from the WiFi Box
+	SD Copied from the WiFi Box
