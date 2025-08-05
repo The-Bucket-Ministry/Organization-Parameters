@@ -1,14 +1,14 @@
-Org Name: The Bucket Ministry South Africa - Mkholombe
+Org Name: The Bucket Ministry Mkholombe
 
 Villages:
-	Mkholombe - Sayitsini
-	Mkholombe - Mzakhele
-	Mkholombe - Marasta
-	Mkholombe - Emakhalibhothini
-	Mkholombe - Zone 14
-	Mkholombe - Nkopolo
-	Mkholombe - Ebhasini
-	Mkholombe - Bhoboyi
+	Sayitsini
+	Mzakhele
+	Marasta
+	Emakhalibhothini
+	Zone 14
+	Nkopolo
+	Ebhasini
+	Bhoboyi
 
 Zones:
 	N/A
