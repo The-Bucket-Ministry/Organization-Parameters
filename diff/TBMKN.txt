@@ -27,14 +27,14 @@ Tribes:
 	Other
 
 Languages:
-	Dholuo
 	Kiswahili
 	Lubukusu
-	Ekigusii
 	English
 	Kalenjin
 	Maasai
 	Other
+	Kisii
+	Luo
 
 Materials:
 	Printed Bible
