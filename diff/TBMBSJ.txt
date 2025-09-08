@@ -1,0 +1,20 @@
+Org Name: The Bucket Ministry Sao Jose Operario
+
+Villages:
+	Sao Jose Operario
+
+Zones:
+	N/A
+
+Tribes:
+	N/A
+
+Languages:
+	Portuguese
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
+	Download from the WiFi Box
+	SD Copied from the WiFi Box
