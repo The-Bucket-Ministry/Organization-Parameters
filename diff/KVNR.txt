@@ -1,0 +1,23 @@
+Org Name: Kingdom Ventures Nanay River
+Country: Peru
+
+Villages:
+	Manacamiri 
+	Fray Martin
+	Santa Rita
+	Lupuna
+	San Pedro
+
+Zones:
+	N/A
+
+Tribes:
+	N/A
+
+Languages:
+	Spanish
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
