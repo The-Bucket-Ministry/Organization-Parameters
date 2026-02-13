@@ -8,7 +8,7 @@ Villages:
 	Jenta Mangoro C
 	Jenta Sakiya
 	Jenta Summit
-	West of mines
+	Jenta Tudu
 
 Zones:
 	N/A
