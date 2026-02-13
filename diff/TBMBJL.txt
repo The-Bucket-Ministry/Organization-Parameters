@@ -1,0 +1,21 @@
+Org Name: The Bucket Ministry Janauaca Lake
+
+Villages:
+	Cabeceira 
+	Boa Vista 
+	Rio Branco
+	Italiano
+
+Zones:
+	N/A
+
+Tribes:
+	N/A
+
+Languages:
+	Portuguese
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

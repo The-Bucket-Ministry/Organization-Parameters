@@ -1,0 +1,49 @@
+Org Name: Kingdom Ventures Amazon River
+Country: Peru
+
+Villages:
+	El Milagro
+	Astoria
+	Santa Clotilde
+	Centro Arenal
+	Independencia
+	Barrio Florido
+	Costa Nera
+	Picuru Yacu
+	Santa Clara – Zona 1
+	Santa Clara – Zona 2
+	Santa Clara – Zona 3
+	Santa María de Ojeal
+	Nuevo Perú (Indígena)
+	Santa Zulema
+	San Juan de Sinchicuy
+	San Juan de Huashalado
+	Cabo Victor Pantoja
+	Santa María de Fátima
+	Sinchicuy
+	Juan Velasco
+	Santa Rosa
+	Nueva Amazonía
+	San Pedro de Huashalado
+	San Rafael
+	Santa María de Fátima 2
+	Padre Isla
+	Carococha
+	Santa Martha
+	Nueva Jerusalén
+	2 de Mayo
+	Indiana
+
+Zones:
+	N/A
+
+Tribes:
+	N/A
+
+Languages:
+	Spanish
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
