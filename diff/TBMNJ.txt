@@ -120,6 +120,13 @@ Languages:
 	Wamba
 	Yoruba
 	Youm
+	Bekwarra
+	Bete-Bendi
+	Ebira
+	Igede
+	Kutep
+	Nigerian Pidgin
+	Tyap
 
 Materials:
 	Printed Bible

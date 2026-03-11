@@ -264,11 +264,11 @@ Langs: 	Spanish, English,
 
 Name: The Salvation Story
 Cat: 	iBIBLE
-Langs: 	Akan-Akuapem-Twi, Spanish, English, Ewe, isiZulu, Swahili, 
+Langs: 	Akan-Akuapem-Twi, Spanish, English, Ewe, isiZulu, Swahili, Hausa, Igbo, Yoruba,
 
 Name: Jesus Film
 Cat: 	jesusFilm
-Langs: 	Acholi, Adele, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Akan-Fante, Alur, Anufo, Ateso, Bimoba, Birifor-Southern, Borana, Buli, Canela, Cebuano, Chumburung, Daasanach, Dagaare, Dagbani, Dhopadhola, Duruma, English, Ewe, Ga, Gikyode, Giryama, Guajajara, Hanga, Ilchamus, IsiXhosa, IsiZulu, Kaapor, Kadiweu, Kakwa, Kalenjin, Kamba, Karimojong, Kasem, Kayabi, Kayapo, Kebu, Kikamba, Kimeru, Kiswahili, Kiwihwana, Koma, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kumam, Kupsapiny, Kusaal, Lango, Lelemi, Lubwisi, Luganda, Lugbara, Lumasaaba, Lunyore, Luo, Lusoga, Maasai, Madi, Mampruli, Mende, Meru, Ndebele Northern, Ndebele Southern, Nkonya, Nzema, Paasaal, Parecis, Polkoot, Portuguese, Runyankore, Runyoro-Rutoro, Sabaot, Samburu, Sesotho, Sesotho sa Leboa, Setswana, Sisaala-Tumulung, siSwati, Spanish, Suba, Taita, Tampulma, Tharaka, Themne, Turkana, Vagla, Wali, Xitsonga,
+Langs: 	Acholi, Adele, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Akan-Fante, Alur, Anufo, Ateso, Bekwarra, Berom, Bete-Bendi, Bimoba, Birifor-Southern, Borana, Buli, Bura, Canela, Cebuano, Chumburung, Daasanach, Dagaare, Dagbani, Dhopadhola, Duruma, English, Eggon, Ewe, Ga, Gikyode, Giryama, Guajajara, Hanga, Hausa, Idoma, Igbo, Igede, Ilchamus, IsiXhosa, IsiZulu, Kaapor, Kadiweu, Kakwa, Kalenjin, Kamba, Karimojong, Kasem, Kayabi, Kayapo, Kebu, Kikamba, Kimeru, Kiswahili, Kiwihwana, Koma, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kumam, Kupsapiny, Kusaal, Kutep, Lango, Lelemi, Lubwisi, Luganda, Lugbara, Lumasaaba, Lunyore, Luo, Lusoga, Maasai, Madi, Mampruli, Mende, Meru, Mwaghavul, Ndebele Northern, Ndebele Southern, Nigerian Pidgin, Nkonya, Nzema, Paasaal, Parecis, Polkoot, Portuguese, Runyankore, Runyoro-Rutoro, Sabaot, Samburu, Sesotho, Sesotho sa Leboa, Setswana, Sisaala-Tumulung, siSwati, Spanish, Suba, Taita, Tampulma, Tharaka, Themne, Tiv, Turkana, Tyap, Vagla, Wali, Yoruba, Xitsonga,
 
 Name: Magdalena
 Cat: 	jesusFilm
@@ -276,23 +276,23 @@ Langs: 	Afrikaans, IsiZulu, Maasai, Ndebele Northern, Portuguese, Suba,
 
 Name: Growing in Christ
 Cat: 	jesusFilm
-Langs: 	Acholi, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Anufo, Dagbani, English, Ewe, IsiXhosa, IsiZulu, Kasem, Kiswahili, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kusaal, Luganda, Mende, Ndebele Northern, Runyankore, Setswana, Setswana, Sisaala-Tumulung, siSwati, Themne,
+Langs: 	Acholi, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Anufo, Berom, Dagbani, English, Ewe, Hausa, IsiXhosa, IsiZulu, Kasem, Kiswahili, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kusaal, Luganda, Mende, Ndebele Northern, Runyankore, Setswana, Setswana, Sisaala-Tumulung, siSwati, Themne, Tiv, Yoruba,
 
 Name: Fellowship of Believers
 Cat: 	jesusFilm
-Langs: 	Acholi, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Anufo, Dagbani, English, Ewe, IsiXhosa, IsiZulu, Kasem, Kiswahili, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kusaal, Luganda, Mende, Ndebele Northern, Runyankore, Setswana, Setswana, Sisaala-Tumulung, siSwati, Themne,
+Langs: 	Acholi, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Anufo, Berom, Dagbani, English, Ewe, Hausa, IsiXhosa, IsiZulu, Kasem, Kiswahili, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kusaal, Luganda, Mende, Ndebele Northern, Runyankore, Setswana, Setswana, Sisaala-Tumulung, siSwati, Themne, Tiv, Yoruba,
 
 Name: Walking in the Sprit
 Cat: 	jesusFilm
-Langs: 	Acholi, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Anufo, Dagbani, English, Ewe, IsiXhosa, IsiZulu, Kasem, Kiswahili, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kusaal, Luganda, Mende, Ndebele Northern, Runyankore, Setswana, Setswana, Sisaala-Tumulung, siSwati, Themne,
+Langs: 	Acholi, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Anufo, Berom, Dagbani, English, Ewe, Hausa, IsiXhosa, IsiZulu, Kasem, Kiswahili, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kusaal, Luganda, Mende, Ndebele Northern, Runyankore, Setswana, Setswana, Sisaala-Tumulung, siSwati, Themne, Tiv, Yoruba,
 
 Name: Assurance of Salvation
 Cat: 	jesusFilm
-Langs: 	Acholi, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Anufo, Dagbani, English, Ewe, IsiXhosa, IsiZulu, Kasem, Kiswahili, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kusaal, Luganda, Mende, Ndebele Northern, Runyankore, Setswana, Setswana, Sisaala-Tumulung, siSwati, Themne,
+Langs: 	Acholi, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Anufo, Berom, Dagbani, English, Ewe, Hausa, IsiXhosa, IsiZulu, Kasem, Kiswahili, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kusaal, Luganda, Mende, Ndebele Northern, Runyankore, Setswana, Setswana, Sisaala-Tumulung, siSwati, Themne, Tiv, Yoruba,
 
 Name: The Holy Spirit
 Cat: 	jesusFilm
-Langs: 	Acholi, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Anufo, Dagbani, English, Ewe, IsiXhosa, IsiZulu, Kasem, Kiswahili, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kusaal, Luganda, Mende, Ndebele Northern, Runyankore, Setswana, Setswana, Sisaala-Tumulung, siSwati, Themne,
+Langs: 	Acholi, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Anufo, Berom, Dagbani, English, Ewe, Hausa, IsiXhosa, IsiZulu, Kasem, Kiswahili, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kusaal, Luganda, Mende, Ndebele Northern, Runyankore, Setswana, Setswana, Sisaala-Tumulung, siSwati, Themne, Tiv, Yoruba,
 
 Name: Legion
 Cat: 	jesusFilm
@@ -300,7 +300,7 @@ Langs: 	Akan-Akuapem-Twi, English, Kiswahili, Portuguese,
 
 Name: My Last Day
 Cat: 	jesusFilm
-Langs: 	Akan-Akuapem-Twi, Akan-Asante, English, Portuguese, Cebuano
+Langs: 	Akan-Akuapem-Twi, Akan-Asante, Berom, English, Portuguese, Cebuano
 
 Name: Jesus, Our Loving Pursuer
 Cat: 	jesusFilm
@@ -332,59 +332,59 @@ Langs: 	Akan-Akuapem-Twi, Akan-Asante, Ewe, Kiswahili, Krio, Luganda, Mende, Nde
 
 Name: The Story of jesus for Children
 Cat: 	jesusFilm
-Langs: 	Akan-Asante, Kiswahili, Luganda, Portuguese, Cebuano
+Langs: 	Akan-Asante, Cebuano, Kiswahili, Luganda, Portuguese, Igbo, Yoruba,
 
 Name: StoryClubs-Birth of Jesus
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-Sinful Woman Forgiven
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-The Last Supper
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-Jairus Daugher
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-Jesus and Zacchaeus
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-Jesus Calms the Storm
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-Miraculous Catch of Fish
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-The Tomb is Empty
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-Jesus Feeds 5000
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-Childhood of Jesus
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-Jesus is Crucified
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-A widows Offering
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: StoryClubs-Healing Bartimaeus
 Cat: 	jesusFilm
-Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne,
+Langs: 	Afrikaans, Akan-Asante, Cebuano, IsiXhosa, IsiZulu, Kiswahili, Krio, Luganda, Mende, Portuguese, Setswana, siSwati, Themne, Yoruba,
 
 Name: Parable of Good Samaritan
 Cat: 	jesusFilm

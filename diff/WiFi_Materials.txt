@@ -1,49 +1,49 @@
 Material: Bible App
-Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMPB, TBMKB, TBMSL, TBMGN, TBMKN,
-Langs: 	Acholi, Adele, Agutaynen, Akan-Akuapem-Twi, Akan-Asante, Akan-Fante, Alangan, Alur, Antipolo Ifugao, Anufo, Apalai, Apinaye, Apurina, Ateso, Ayangan, Ayangan Ifugao, Ayta Abellen, Ayta Mag antsi, Ayta Mag Indi, Bakairi, Bantoanon, Bekwarra, Berom, Bete-Bendi, Bicolano Central, Bikol Rinconada, Bimoba, Birifor-Southern, Bisa, Bokobaru-Sim, Borana, Bororo, Bukidnon,  Buli, Bura, Busa-Bisa, Canela, Canela, Cebuano, Central Ifugao, Central Subanen, Chumburung, Culina, Daasanach, Dagaare, Dagbani, Dhopadhola, Duruma, Dza, Ebira, Embu, Ewe, Finallig, Frafra, Ga, Gikyode, Giryama, Guajajara, Hanga, Hanunoo, Hausa, Hiligaynon, Hixkaryana, Inakeanon, Ilchamus, Ilokano, Jamamadi, Jarawara, Kaapor, Kadiweu, Kagayanen, Kaingang, Kaiwa, Kakwa, Kalagan Eastern, Kalanguya, Kalenjin, Kalinga Butbut, Kalinga Lubuagan, Kalinga Majukayong, Kamayura, Kamba, Kankanaey, Karaja, Karimojong, Kasem, Kayabi, Kayapo, Kebu, Kikuyu, Kinaray, Kisii, Kiswahili, Kiwilwana, Kolibugan, Koma, Kono, Konkomba-Likoonli, Konkomba-Likpakpaaln, Koronadal, Krio, Kulina, Kumam, Kupsapiny, Kuranko, Kusaal, Lango, Lelemi, Limba West, Lubukusu, Lubwisi, Luganda,  Lugbara, Lugungu, Lugwere, Luhya, Lukakamega, Lumasaba, Lunyankore, Lunyore, Luo, Lusamya, Lusoga, Maasai, Macushi, Madi, Mampruli, Manchineri, Mangali, Marakwet, Maxakali, Mbya Guarani, Mende, Meru, Minonuvu, Munduruku, Nadeb, Nambikuara (Southern), Nawuri, Nkonya, Ntrubo, Nzema, Obolo, Okphela, Orma, Paasaal, Pahanan, Palawano, Palikur, Pampangan, Pangasinan, Paranan, Parecis, Paumari, Pokoot, Portuguese, Rikbaktsa, Romblomanon, Runyoro-Rutoro, Sabaot, Samareno, Sambal, Sambali, Samburu, Sarangani, Satere-Mawe, Sekpele, Selee, Shanga, Sinama, Sisaala-Tumulung, Siwu, Suba, Tadyawan, Tagalog, Taita, Tampulma, Tawbuid, Tboli, Tenharim, Terena, Tharaka, Themne, Tiv, Tukano, Turkana, Tuwuli, Tuwali Ifugao, Tyap, UaiUai, Vagla, Wali, Xavante, Yakan, Yoruba,
+Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMPB, TBMKB, TBMSL, TBMGN, TBMKN, TBMCJ, TBMNJ,
+Langs: 	Acholi, Adele, Agutaynen, Akan-Akuapem-Twi, Akan-Asante, Akan-Fante, Alangan, Alur, Antipolo Ifugao, Anufo, Apalai, Apinaye, Apurina, Ateso, Ayangan, Ayangan Ifugao, Ayta Abellen, Ayta Mag antsi, Ayta Mag Indi, Bakairi, Bantoanon, Bekwarra, Berom, Bete-Bendi, Bicolano Central, Bikol Rinconada, Bimoba, Birifor-Southern, Bisa, Bokobaru-Sim, Borana, Bororo, Bukidnon,  Buli, Bura, Busa-Bisa, Canela, Canela, Cebuano, Central Ifugao, Central Subanen, Chumburung, Culina, Daasanach, Dagaare, Dagbani, Dhopadhola, Duruma, Dza, Ebira, Eggon, Embu, Ewe, Finallig, Frafra, Ga, Gikyode, Giryama, Guajajara, Hanga, Hanunoo, Hausa, Hiligaynon, Hixkaryana, Idoma, Igbo, Igede, Inakeanon, Ilchamus, Ilokano, Irigwe, Jamamadi, Jarawara, Kaapor, Kadiweu, Kagayanen, Kaingang, Kaiwa, Kakwa, Kalagan Eastern, Kalanguya, Kalenjin, Kalinga Butbut, Kalinga Lubuagan, Kalinga Majukayong, Kamayura, Kamba, Kankanaey, Karaja, Karimojong, Kasem, Kayabi, Kayapo, Kebu, Kikuyu, Kinaray, Kisii, Kiswahili, Kiwilwana, Kolibugan, Koma, Kono, Konkomba-Likoonli, Konkomba-Likpakpaaln, Koronadal, Krio, Kulina, Kumam, Kupsapiny, Kuranko, Kusaal, Kutep, Lango, Lelemi, Limba West, Lubukusu, Lubwisi, Luganda,  Lugbara, Lugungu, Lugwere, Luhya, Lukakamega, Lumasaba, Lunyankore, Lunyore, Luo, Lusamya, Lusoga, Maasai, Macushi, Madi, Mampruli, Manchineri, Mangali, Marakwet, Maxakali, Mbya Guarani, Mende, Meru, Minonuvu, Munduruku, Mwaghavul, Nadeb, Nambikuara (Southern), Nawuri, Nigerian Pidgin, Nkonya, Ntrubo, Nzema, Obolo, Okphela, Orma, Paasaal, Pahanan, Palawano, Palikur, Pampangan, Pangasinan, Paranan, Parecis, Paumari, Pokoot, Portuguese, Rikbaktsa, Romblomanon, Runyoro-Rutoro, Sabaot, Samareno, Sambal, Sambali, Samburu, Sarangani, Satere-Mawe, Sekpele, Selee, Shanga, Sinama, Sisaala-Tumulung, Siwu, Suba, Tadyawan, Tagalog, Taita, Tampulma, Tawbuid, Tboli, Tenharim, Terena, Tharaka, Themne, Tiv, Tukano, Turkana, Tuwuli, Tuwali Ifugao, Tyap, UaiUai, Vagla, Wali, Xavante, Yakan, Yoruba,
 
 Material: ESV Bible
-Orgs: 	TBM, TBMCV, TBMKA, TBMK, TBMSL, TBMKN,
+Orgs: 	TBM, TBMCV, TBMKA, TBMK, TBMSL, TBMKN, TBMCJ, TBMNJ,
 Langs: 	English,
 
 Material: BDA Bible
-Orgs: 	TBM, TBMCV, TBMK,
+Orgs: 	TBM, TBMCV, TBMK, TBMCJ,
 Langs: 	Spanish,
 
 Material: PDT Bible
-Orgs: 	TBM, TBMCV, TBMK,
+Orgs: 	TBM, TBMCV, TBMK, TBMCJ,
 Langs: 	Spanish,
 
 Material: ARA Bible
-Orgs: 	TBM, TBMCV, TBMK,
+Orgs: 	TBM, TBMCV, TBMK, TBMBS, TBMQS, TBMQN, TBMM, TBMBW, TBMBSJ,  TBMCJ,
 Langs: 	Portuguese,
 
 Material: ARC Bible
-Orgs: 	TBM, TBMCV, TBMK,
+Orgs: 	TBM, TBMCV, TBMK, TBMBS, TBMQS, TBMQN, TBMM, TBMBW, TBMBSJ,  TBMCJ,
 Langs: 	Portuguese,
 
 Material: Jesus Film(s)
 Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMPB, TBMKB, TBMSL, TBMGN, TBMSA, TBMKN,
-Langs: 	Acholi, Adele, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Akan-Fante, Alur, Anufo, Ateso, Bimoba, Birifor-Southern, Borana, Buli, Canela, Cebuano, Chumburung, Daasanach, Dagaare, Dagbani, Dhopadhola, Duruma, English, Ewe, Fullah, Ga, Gikyode, Giryama, Guajajara, Hanga, Ilchamus, IsiXhosa, IsiZulu, Kaapor, Kadiweu, Kakwa, Kalenjin, Kamba, Karimojong, Kasem, Kayabi, Kayapo,  Kebu, Kikamba, Kimeru, Kiswahili, Kiwihwana, Koma, Kono, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kumam, Kupsapiny, Kuranko, Kusaal, Lango, Lelemi, Limba West, Lubwisi, Luganda, Lugbara, Lumasaaba, Lunyore, Luo, Lusoga, Maasai, Madi, Mampruli, Mende, Meru, Ndebele Northern, Ndebele Southern, Nkonya, Nzema, Paasaal, Parecis, Polkoot, Portuguese, Runyankore, Runyoro-Rutoro, Sabaot, Samburu, Sisaala-Tumulung, siSwati, Sesotho, Sesotho sa Leboa, Setswana, Spanish, Suba, Taita, Tampulma, Tharaka, Themne, Turkana, Vagla, Wali, Xitsonga,
+Langs: 	Acholi, Adele, Afrikaans, Akan-Akuapem-Twi, Akan-Asante, Akan-Fante, Alur, Anufo, Ateso, Bekwarra, Berom, Bete-Bendi, Bimoba, Birifor-Southern, Borana, Buli, Bura, Canela, Cebuano, Chumburung, Daasanach, Dagaare, Dagbani, Dhopadhola, Duruma, Ebira, Eggon, English, Ewe, Fullah, Ga, Gikyode, Giryama, Guajajara, Hanga, Idoma, Igbo, Igede, Ilchamus, IsiXhosa, IsiZulu, Kaapor, Kadiweu, Kakwa, Kalenjin, Kamba, Karimojong, Kasem, Kayabi, Kayapo,  Kebu, Kikamba, Kimeru, Kiswahili, Kiwihwana, Koma, Kono, Konkomba-Likoonli, Konkomba-Likpakpaaln, Krio, Kumam, Kupsapiny, Kuranko, Kusaal, Kutep, Lango, Lelemi, Limba West, Lubwisi, Luganda, Lugbara, Lumasaaba, Lunyore, Luo, Lusoga, Maasai, Madi, Mampruli, Mende, Meru, Mwaghavul, Ndebele Northern, Ndebele Southern, Nigerian Pidgin, Nkonya, Nzema, Paasaal, Parecis, Polkoot, Portuguese, Runyankore, Runyoro-Rutoro, Sabaot, Samburu, Sisaala-Tumulung, siSwati, Sesotho, Sesotho sa Leboa, Setswana, Spanish, Suba, Taita, Tampulma, Tharaka, Themne, Turkana, Tyap, Vagla, Wali, Xitsonga, Yoruba,
 
 Material: Bible Project Video(s)
-Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMKB, TBMSL, TBMSA, TBMKN,
+Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMN, TBMSA, TBMBS, TBMQS, TBMQN, TBMM, TBMBW, TBMKB, TBMSL, TBMSA, TBMKN, TBMBSJ, TBMCJ, TBMNJ, 
 Langs: 	Afrikaans, English, Kiswahili, Portuguese, Spanish,
 
 Material: Good News Video
-Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMSL,
+Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMSL, TBMSA, TBMKN, TBMCJ, TBMNJ,
 Langs: 	Spanish, English,
 
 Material: Sawyer Cleaning Instructions
-Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMSL, TBMSA, TBMKN,
+Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMSL, TBMSA, TBMKN, TBMCJ, TBMNJ,
 Langs: 	Spanish, English,
 
 Material: iBIBLE
-Orgs: 	TBM, TBMCV, TBMKA, TBMK, TBMSA, TBMSL, TBMGN, TBMKN,
+Orgs: 	TBM, TBMCV, TBMKA, TBMK, TBMSA, TBMSL, TBMGN, TBMSA, TBMKN, TBMCJ, TBMNJ,
 Langs: 	Akan-Akuapem-Twi, Spanish, English, Ewe, isiZulu, Swahili, 
 
 Material: Language Not Available on WiFi Box
 Please notify Randy and Victor to update form and leave a note at the bottom of the form.
-Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMKB
-Langs: 	Afenmai, Ake-Levbu, Akoko, Akwai, Akyem, Amo, Anaguta, Ankwe, Annang, Bagim, Bajju, Bakhayo, Baniwa, Banjara, Bengali, Banyore, Bono, Bora, Buli, Bwai, Calabar, Chamba, Chawai, Chekosi, Chumburu, Creole, Criolo, Demark, Desano, Doemak, Edo, Efik, Eggon, Emai, Esan, Etsako, Etuno, Fante, Frafra, French, Fulfude (Fulani), Ga/Adangbe, Goemai, Gonja, Grune, Here, Hindi, Ibibio, Idoma, Igala, Igbanke, Igbo, Ijaw, Imua, Irigwe, Isoko, Itsekiri, Jarawa, Jukun, Kanjaga, Kannada, Kofia, Komo, Konkomba, Koro, Kotokoli, Krobo, Kulere, Kwal, Lemoro, Lubukusu, Lugwere, Lusamya, Luyole, Magogo, Marachi, Marathi, Marubo, Mernian, Minchika, Miranha, Miranhas, Mupun, Mura, Mushere, Mwaghavul, Nanuni, Nawuri, Nchumburu, Ngas, Nhengatu, Ntrubo, Ntu-Mbusor, Ogoja, Okpameri, Okpe, Oniyan, Oron, Other, Piraha, Piratapuyo, Pyem, Quan, Rindere, Ron, Rukuba (Bache), Satere-Mawe, Sekpele, Selee, Sisaali, Sisaala_Tumulung, Siwu, Skaryanas, Stiwa, Talni, Tamil, Tarok, Telugu, Tenharim, Ticuna, Tucano, Tula, Tuwuli, Tuyuca, Twi, Urhobo, Waali, Wamba, Wayway, Youm,
+Orgs: 	TBM, TBMAR, TBMCV, TBMKA, TBMK, TBMKB, TBMSA, TBMKN,
+Langs: 	Afenmai, Ake-Levbu, Akoko, Akwai, Akyem, Amo, Anaguta, Ankwe, Annang, Bagim, Bajju, Bakhayo, Baniwa, Banjara, Bengali, Banyore, Bono, Bora, Buli, Bwai, Calabar, Chamba, Chawai, Chekosi, Chumburu, Creole, Criolo, Demark, Desano, Doemak, Edo, Efik, Emai, Esan, Etsako, Etuno, Fante, Frafra, French, Fulfude (Fulani), Ga/Adangbe, Goemai, Gonja, Grune, Here, Hindi, Ibibio, Igala, Igbanke, Ijaw, Imua, Isoko, Itsekiri, Jarawa, Jukun, Kanjaga, Kannada, Kofia, Komo, Konkomba, Koro, Kotokoli, Krobo, Kulere, Kwal, Lemoro, Lubukusu, Lugwere, Lusamya, Luyole, Magogo, Marachi, Marathi, Marubo, Mernian, Minchika, Miranha, Miranhas, Mupun, Mura, Mushere, Nanuni, Nawuri, Nchumburu, Ngas, Nhengatu, Ntrubo, Ntu-Mbusor, Ogoja, Okpameri, Okpe, Oniyan, Oron, Other, Piraha, Piratapuyo, Pyem, Quan, Rindere, Ron, Rukuba (Bache), Satere-Mawe, Sekpele, Selee, Sisaali, Sisaala_Tumulung, Siwu, Skaryanas, Stiwa, Talni, Tamil, Tarok, Telugu, Tenharim, Ticuna, Tucano, Tula, Tuwuli, Tuyuca, Twi, Urhobo, Waali, Wamba, Wayway, Youm,
 
