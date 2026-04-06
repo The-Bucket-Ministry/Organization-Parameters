@@ -58,13 +58,16 @@ Languages:
 	Annang
 	Bagim
 	Bajju
+	Bekwarra
 	Berom
+	Bete-Bendi
 	Buji
 	Bwai
 	Calabar
 	Chawai
 	Demark
 	Doemak
+	Ebira
 	Edo
 	Efik
 	Eggon
@@ -81,6 +84,7 @@ Languages:
 	Igala
 	Igbanke
 	Igbo
+	Igede
 	Ijaw
 	Imua
 	Irigwe
@@ -91,6 +95,7 @@ Languages:
 	Kofia
 	Koro
 	Kulere
+	Kutep
 	Kwal
 	Lemoro
 	Mada
@@ -101,6 +106,7 @@ Languages:
 	Mushere
 	Mwaghavul 
 	Ngas
+	Nigerian Pidgin
 	Ntu-Mbusor
 	Ogoja
 	Okpameri
@@ -116,17 +122,11 @@ Languages:
 	Tarok
 	Tiv
 	Tula
+	Tyap
 	Urhobo
 	Wamba
 	Yoruba
 	Youm
-	Bekwarra
-	Bete-Bendi
-	Ebira
-	Igede
-	Kutep
-	Nigerian Pidgin
-	Tyap
 
 Materials:
 	Printed Bible
