@@ -1,0 +1,29 @@
+Org Name: Pioneer Mission Global - West Pokot
+Country: Kenya
+
+Villages:
+	Serewo
+
+Zones:
+	N/A
+
+Tribes:
+	Pokot 
+	Turkana
+	Luyha
+	Luo
+	Kikuyu
+	Other
+
+Languages:
+	Pokoot
+	Turkana
+	Luyha
+	Dholuo
+	Gikuyu
+	Swahili
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

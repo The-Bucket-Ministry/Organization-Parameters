@@ -1,0 +1,32 @@
+Org Name: Pioneer Mission Global - East Pokot
+Country: Kenya
+
+Villages:
+	Tangulbei
+	Chemolingot
+
+Zones:
+	N/A
+
+Tribes:
+	Pokot 
+	Marakwet
+	Turkana
+	Luyha
+	Luo
+	Kikuyu
+	Other
+
+Languages:
+	Pokoot
+	Marakwet
+	Turkana
+	Luyha
+	Dholuo
+	Gikuyu
+	Swahili
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

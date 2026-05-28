@@ -1,6 +1,13 @@
 Org Name: The Bucket Ministry Northern Ghana
 
 Villages:
+	Kalli fong
+	Kpatuli fong
+	Kuga fong
+	Mohifong 
+	Nakohigu fong
+	Nayili fong North
+	Nayili fong South
 	Satani Baatingli
 	Satani Zugsaaya
 	Yilkpani
