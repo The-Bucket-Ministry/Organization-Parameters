@@ -133,3 +133,6 @@ Languages:
 	Maasai
 
 Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
