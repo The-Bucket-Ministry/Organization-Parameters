@@ -1,0 +1,23 @@
+Org Name: The Bucket Ministry Piedras Negras
+Country: Mexico
+
+Villages:
+	El Eden
+	Hacienda de Luna
+	La Hacienda
+	Venustiano Carranza
+	Villas de Fuente
+	Ampliación Año 2000
+	Lázaro Cárdenas
+
+Zones:
+
+Tribes:
+
+Languages:
+	Spanish
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible

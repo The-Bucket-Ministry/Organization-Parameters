@@ -1,0 +1,26 @@
+Org Name: The Bucket Ministry Kazungula
+Country: Zambia
+
+Villages:
+	Kazungula - Makalanguzu
+	Kazungula - Kazala
+	Kazungula - Riverview
+	Kazungula - Mwaanga
+
+Zones:
+	N/A
+
+Tribes:
+	Toka-Leya 
+	Lozi
+
+Languages:
+	Toka-Leya 
+	Lozi
+	Nyanja
+	Bemba
+
+Materials:
+	Printed Bible
+	Mega Voice
+	Other Audio Bible
