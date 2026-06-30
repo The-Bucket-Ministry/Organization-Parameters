@@ -4,6 +4,7 @@ Country: Philippines
 Villages:
 	Upper Man-ai
 	Lower Man-ai
+	Bangkers
 
 Zones:
 
